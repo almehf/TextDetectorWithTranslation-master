@@ -1,6 +1,6 @@
 //
 //  GoogleTranslate.swift
-//  TextDetect
+//  TextDetector
 //
 //  Created by Fahad Almehawas on 7/13/19.
 //  Copyright © 2019 Assignment. All rights reserved.
